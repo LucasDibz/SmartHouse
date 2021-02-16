@@ -40,7 +40,7 @@ npm start --prefix mobile
 
 Tests for Server
 ```
-cd server/
+cd server
 npm test
 ```
 
